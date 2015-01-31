@@ -17,3 +17,5 @@
 
 
 * http://nodejs.org/
+* 
+* https://github.com/facebook/react/
