@@ -21,3 +21,5 @@
 * https://github.com/facebook/react/
 * 
 [mockery](https://github.com/mfncooper/mockery) When enabled, Mockery intercepts all require calls, regardless of where those calls are being made from.
+
+[node-inspector](https://github.com/node-inspector/node-inspector)
