@@ -23,3 +23,8 @@
 [mockery](https://github.com/mfncooper/mockery) When enabled, Mockery intercepts all require calls, regardless of where those calls are being made from.
 
 [node-inspector](https://github.com/node-inspector/node-inspector)
+
+
+## security
+[firing-range](https://github.com/google/firing-range) from google
+[webseclab](https://github.com/yahoo/webseclab) from yahoo
