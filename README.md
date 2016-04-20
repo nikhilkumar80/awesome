@@ -21,3 +21,7 @@
 ## security
 * [firing-range](https://github.com/google/firing-range) from google
 * [webseclab](https://github.com/yahoo/webseclab) from yahoo
+
+
+## Toolchain
+* [Awesome chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
