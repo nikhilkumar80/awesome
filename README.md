@@ -1,4 +1,4 @@
-# awesome
+# [awesome](https://github.com/sindresorhus/awesome)
 * [mocha](http://mochajs.org/) is a feature-rich JavaScript test framework running on node.js and the browser.
 
 ## Assertion library
