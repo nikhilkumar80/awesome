@@ -25,3 +25,7 @@
 
 ## Toolchain
 * [Awesome chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+
+## HowTo's
+* [React Howto](https://github.com/petehunt/react-howto)
+* [Webpack Howto](https://github.com/petehunt/webpack-howto)
